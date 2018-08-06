@@ -1,7 +1,7 @@
  
 - dataset: Cambridge
   link: http://www.cambridgema.gov/GIS/3D/3ddata/3ddatadownloadmap
-  country: UK
+  country: USA
   building_lod: LOD1
   # year: 2013
   texture:  No
